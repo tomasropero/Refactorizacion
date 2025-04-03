@@ -14,6 +14,6 @@ public class Calculadora {
     }
 
     public int multiplicacion(int a, int b){
-        return a-b;
+        return a*b;
     }
 }
